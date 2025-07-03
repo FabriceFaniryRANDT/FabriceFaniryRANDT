@@ -23,5 +23,5 @@
 🔒 Cyber Tools: Wireshark, Kali Linux, Nmap, Burp Suite
 
 📫 Let's Connect
-💼 LinkedIn (ajoute ton lien)
-✉️ Email: (facultatif ou en format anti-spam, ex. fabrice[at]email.com)
+💼 LinkedIn : https://www.linkedin.com/in/fabrice-faniry-randriamahatratra-8aa117271/
+✉️ Email: randtfabricefaniry@gmail.com
